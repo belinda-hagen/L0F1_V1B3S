@@ -21,7 +21,7 @@ Whether you're looking for chill lofi vibes, gaming-inspired tracks, or the hott
 
 | 🎵 Music Player      | 🕹️ Game Reviews    | 📰 Gaming News      |
 |------------------------------|-----------------------------|-----------------------------|
-| <img src="https://github.com/belinda-hagen/LoFi-Website/raw/main/gif/feature-lofi-music.PNG" width="300px"> | <img src="https://github.com/belinda-hagen/LoFi-Website/raw/main/gif/feature-game-reviews.PNG" width="300px" width="300px"> | <img src="https://github.com/belinda-hagen/LoFi-Website/raw/main/gif/feature-gaming-news.PNG" width="300px"> |
+| <img src="https://github.com/belinda-hagen/LoFi-Website/raw/main/img/feature-lofi-music.PNG" width="300px"> | <img src="https://github.com/belinda-hagen/LoFi-Website/raw/main/img/feature-game-reviews.PNG" width="300px" width="300px"> | <img src="https://github.com/belinda-hagen/LoFi-Website/raw/main/img/feature-gaming-news.PNG" width="300px"> |
 
 ### 🎵 Music Player
 - A sleek **music player** with handpicked **lofi beats** for relaxation.
