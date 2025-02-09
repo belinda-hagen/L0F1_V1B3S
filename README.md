@@ -21,7 +21,7 @@ Whether you're looking for chill lofi vibes, gaming-inspired tracks, or the hott
 
 | 🎵 Music Player      | 🕹️ Game Reviews    | 📰 Gaming News      |
 |------------------------------|-----------------------------|-----------------------------|
-| <img src="https://github.com/belinda-hagen/LoFi-Website/raw/main/img/feature-lofi-music.PNG" width="300px"> | <img src="https://github.com/belinda-hagen/LoFi-Website/raw/main/img/feature-game-reviews.PNG" width="300px" width="300px"> | <img src="https://github.com/belinda-hagen/LoFi-Website/raw/main/img/feature-gaming-news.PNG" width="300px"> |
+| <img src="https://github.com/belinda-hagen/L0F1_V1B3S/raw/main/img/feature-lofi-music.PNG" width="300px"> | <img src="https://github.com/belinda-hagen/L0F1_V1B3S/raw/main/img/feature-game-reviews.PNG" width="300px"> | <img src="https://github.com/belinda-hagen/L0F1_V1B3S/raw/main/img/feature-gaming-news.PNG" width="300px"> |
 
 ### 🎵 Music Player
 - A sleek **music player** with handpicked **lofi beats** for relaxation.
@@ -43,7 +43,7 @@ Whether you're looking for chill lofi vibes, gaming-inspired tracks, or the hott
 
 | L0F1_V1B3S - Home        | L0F1_V1B3S -Music Player     | L0F1_V1B3S - Music Playlist      |
 |------------------------------|-----------------------------|-----------------------------|
-| <img src="https://github.com/belinda-hagen/L0F1_V1B3S/raw/main/img/home-screenshot.png" width="300px"> | <img src="https://github.com/belinda-hagen/L0F1_V1B3S/raw/main/img/music-page.png" width="300px" width="300px"> | <img src="https://github.com/belinda-hagen/L0F1_V1B3S/raw/main/img/music-playlist.png" width="300px"> |
+| <img src="https://github.com/belinda-hagen/L0F1_V1B3S/raw/main/img/home-screenshot.png" width="300px"> | <img src="https://github.com/belinda-hagen/L0F1_V1B3S/raw/main/img/music-page.png" width="300px"> | <img src="https://github.com/belinda-hagen/L0F1_V1B3S/raw/main/img/music-playlist.png" width="300px"> |
 
 | L0F1_V1B3S - Review Cards     | L0F1_V1B3S - Review Page    |L0F1_V1B3S - News Page      |
 |-----------------------------|-----------------------------|----------------------------|
